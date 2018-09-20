@@ -1,3 +1,6 @@
+# Recently concentrate on presenting the intermediate layers of machine learning models
+# Though everyone likes the benefits from the ML, we'd better to learn the reason behind the scene.
+
 import tensorflow as tf
 import numpy as np
 mnist = tf.keras.datasets.mnist
